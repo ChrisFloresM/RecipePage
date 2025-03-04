@@ -1,4 +1,4 @@
-#Recipe page site.
+# Recipe page site.
 
 Excercise from frontend mentor used to practice html and css skills.
 
